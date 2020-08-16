@@ -52,3 +52,4 @@ The administrators field (the accounts that will be able to execute admin only c
 To install the required node modules, simply type `npm install` and all dependencies will be installed!
 
 Once all this is done, you can start the `main.js` file!
+[![Run on Repl.it](https://repl.it/badge/github/Androz2091/DiscordEconomyBot)](https://repl.it/github/Androz2091/DiscordEconomyBot)
